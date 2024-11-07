@@ -1,7 +1,6 @@
-
 # Todo List Jetcompose Project
 
-### Step 1: Create a New Jetpack Compose Project
+### Create a New Jetpack Compose Project
 Make sure you have the latest version of Android Studio installed on your machine.
 
 ### Create a New Project in Android Studio:
@@ -37,3 +36,9 @@ Click Finish to create the project. Android Studio will set up the necessary fil
 * Build the Project
 * Android Studio will automatically build the project when you select a device and run the project.
 * Run the Project
+
+# Screenshot
+![jetpack Compose-pic](https://github.com/user-attachments/assets/fd5b92b5-cb1f-48f3-a596-aadee86f3e38)
+
+# Screencast
+https://github.com/user-attachments/assets/c63fd056-95f1-4c69-8030-fbb7c7f8741a
