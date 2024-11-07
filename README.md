@@ -41,8 +41,14 @@ Click Finish to create the project. Android Studio will set up the necessary fil
 * Download the github project and extract it to the particular folder `C:\Users\Name\AndroidStudioProjects`
 * Open and run the project in Android Studio.
 
-# Screenshot                                                                                                   # Screencast
-![jetpack Compose-pic](https://github.com/user-attachments/assets/07edc89f-f79a-4a6b-af03-fac93328de17)         https://github.com/user-attachments/assets/f2fa6fba-fbbf-420e-9ae4-b63252525d6a
+# Screenshot                                                                                                  
+![jetpack Compose-pic](https://github.com/user-attachments/assets/07edc89f-f79a-4a6b-af03-fac93328de17)   
+
+
+# Screencast
+https://github.com/user-attachments/assets/5de44b5d-9a29-4f10-81fb-2d3b2cac88d1
+
+
 
 
 
