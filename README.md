@@ -16,10 +16,8 @@ Install Android Studio: Make sure you have the latest version of Android Studio 
 * Finish the Setup:
 Click Finish to create the project. Android Studio will set up the necessary files and dependencies for Jetpack Compose.
 
-
-# Steps to Run a Project in Android Studio
 ## Install Android Studio
-* Once installed, launch Android Studio.
+* Download Studio `https://developer.android.com/studio` and once installed, launch Android Studio.
 * Open Your Project & Open an existing project from the Android Studio home screen.
 *Navigate to your project folder and select the root folder of your Android project.
 * Once your project is open, Android Studio will automatically sync the Gradle files.
