@@ -41,6 +41,16 @@ Click Finish to create the project. Android Studio will set up the necessary fil
 * Download the github project and extract it to the particular folder `C:\Users\Name\AndroidStudioProjects`
 * Open and run the project in Android Studio.
 
+### Set Up Android Emulator or Physical Device
+Ensure ANDROID_HOME is set
+
+## (Optional) Run via Android Studio 
+1. Open Android Studio.
+2. Open your project.
+3. Choose the target device (emulator/phone).
+4. Click Run.
+
+
 # Screenshot                                                                                                  
 ![jetpack Compose-pic](https://github.com/user-attachments/assets/07edc89f-f79a-4a6b-af03-fac93328de17)   
 
