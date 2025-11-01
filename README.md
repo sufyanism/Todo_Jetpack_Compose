@@ -1,4 +1,5 @@
 # Todo List Jetcompose Project
+A Todo List app developed with Jetpack Compose for Android, providing a sleek and intuitive interface for adding, managing, and organizing tasks seamlessly. The application highlights the use of Jetpack Compose to create responsive and dynamic user interfaces.
 
 ## Create a New Jetpack Compose Project
 Make sure you have the latest version of Android Studio installed on your machine.
